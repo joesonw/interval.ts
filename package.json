@@ -1,11 +1,11 @@
 {
   "name": "interval.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "delayed interval",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "tsc -p tsconfig.json"
+    "postinstall": "tsc -p tsconfig.json"
   },
   "repository": {
     "type": "git",
