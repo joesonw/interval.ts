@@ -1,0 +1,29 @@
+{
+  "name": "interval.ts",
+  "version": "0.0.1",
+  "description": "delayed interval",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesonw/interval.ts.git"
+  },
+  "keywords": [
+    "interval",
+    "delayed",
+    "typescript",
+    "ts"
+  ],
+  "author": "Qiaosen Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joesonw/interval.ts/issues"
+  },
+  "homepage": "https://github.com/joesonw/interval.ts#readme",
+  "dependencies": {
+    "@types/node": "^4.0.30"
+  }
+}
